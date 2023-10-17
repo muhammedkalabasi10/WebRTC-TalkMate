@@ -73,21 +73,21 @@ This projects aim is facilitate talk to peer-to-peer communication with your fri
    API_LINK=http://localhost:3000
    ```
 ### Features
-- Facilitate running app with Docker
+- Facilitating running app with Docker
 - List of active users
 - List of active group meetings
 - Peer-to-peer meeting
 - Peer-to-peer messaging
-- Create group meeting
+- Creating group meeting
 - Join or leave group meeting
 - Screen sharing during p2p or group meeting
 - Mute-unmute options during meeting
-- Close-open camera during meeting
+- Camera on-off options during meeting
 - Leave meeting option
 - Exiting from meeting when closing the browser
-- Accept and reject call options
-- If user in meeting who called, showing message about this situation
-- Disappearing message after send or receive
+- Call accept and reject options
+- If the called user in meeting during the calling, showing message about this situation
+- Disappearing message after send or receive after 3 second
 - Login/Signup User Account
 - Security for Csrf
 - Data validation on server side
